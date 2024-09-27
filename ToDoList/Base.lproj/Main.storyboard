@@ -113,6 +113,7 @@
                     <navigationItem key="navigationItem" title="Создание напоминания" id="lAO-tw-Z2U"/>
                     <connections>
                         <outlet property="datePicker" destination="ddb-gh-A5a" id="eTC-QW-85Q"/>
+                        <outlet property="saveButton" destination="lMD-nq-TEq" id="ne3-fh-Mqb"/>
                         <outlet property="titleTextField" destination="BUr-H5-Oqf" id="qwl-HV-9R6"/>
                     </connections>
                 </viewController>
